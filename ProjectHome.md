@@ -1,0 +1,1 @@
+a distributed resource manager written in shell. deep-dweller works as a job scheduler for a high throughput cluster
